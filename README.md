@@ -3,7 +3,7 @@
 ### Weather App
 
 ```javascript
-const APIKey = 'Your Api Key';
+const APIKey = 'chave para API';
 ```
 
 
